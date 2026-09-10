@@ -1,0 +1,9 @@
+# Local working docs — not part of the published profile.
+# Ignore every markdown/doc file except the README itself.
+*.md
+!README.md
+*.txt
+*.pdf
+*.docx
+/docs/
+/notes/
