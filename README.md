@@ -1,14 +1,14 @@
 <p align="center">
-  <b>Kyle Giacchi &nbsp;|&nbsp; Technical Product Manager &nbsp;|&nbsp; Bellevue, WA</b>
+  <b>Kyle Giacchi</b>
+</p>
+
+<p align="center">
+  <em>Someone who finds the pain point, and owns the problem, end to end.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kylegiacchi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://personal-page.kgiacchi.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<p align="center">
-  <em>Someone who owns the problem, end to end.</em>
 </p>
 
 ---
